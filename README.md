@@ -144,3 +144,11 @@ print(f"Building intelligent systems that bridge AI and the physical world.")
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
+
+<div class="columns is-centered">
+<div class="column is-8">
+    <div class="content has-text-centered">
+    <p>This website template is adapted from the open-source code of the <a href="https://github.com/sean2077">Sean2077</a> project.</p>
+    </div>
+</div>
+</div>
