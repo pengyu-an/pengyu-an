@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sean&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/> -->
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+%2F+Robotics+Engineer;Autonomous+Driving+%7C+Embodied+AI;Performance+Optimization+Enthusiast" alt="Typing SVG" />
-</a>
+</a> -->
 
 <!-- Social Badges -->
 <!-- <p>
@@ -138,7 +138,7 @@ print(f"Building intelligent systems that bridge AI and the physical world.")
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> Let's Connect!
 
-<a href="mailto:seanzhang.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://sean2077.pages.dev/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hugo&logoColor=white" /></a>
+<a href="mailto:anpengyu666@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://pengyu-an.github.io"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hugo&logoColor=white" /></a>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
