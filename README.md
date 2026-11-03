@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 class pengyu-an:
     def __init__(self):
         self.name = "pengyu-an"
-        self.education = "B.S. in Artificial Intelligence @ SJTU"
+        self.education = "B.E. in Artificial Intelligence @ THU"
         self.languages = ["zh_CN", "en_US"]
 
         self.expertise = {
