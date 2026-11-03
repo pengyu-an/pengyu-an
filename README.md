@@ -55,7 +55,7 @@ print(f"Building intelligent systems that bridge AI and the physical world.")
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🎓 **B.S. in Artificial Intelligence** @ Shanghai Jiao Tong University
+- 🎓 **M.E. in Artificial Intelligence** @ Tsinghua University
 - 📝 Published **conference paper** on Robot Learning
 - 🔭 Working on **Embodied AI & Robotics**
 - 🚀 Passionate about **Robotic Brain**
